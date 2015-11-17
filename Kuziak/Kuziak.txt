@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 zmiana 1
 
 -----------------
 
 Zmiany od tego momentu to 22333
+=======
+>>>>>>> parent of dc4cecc... Zmiana1
